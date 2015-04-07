@@ -25,9 +25,4 @@ public class MainActivity extends Activity {
 		super.onPause();
 	}
 	
-	@Override
-	protected void onResume() {
-		// TODO Auto-generated method stub
-		super.onResume();
-	}
 }
